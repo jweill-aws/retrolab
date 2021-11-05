@@ -1971,18 +1971,6 @@
     y-websocket "^1.3.15"
     yjs "^13.5.6"
 
-"@jupyterlab/docprovider@^3.3.0-alpha.14":
-  version "3.3.0-alpha.14"
-  resolved "https://registry.yarnpkg.com/@jupyterlab/docprovider/-/docprovider-3.3.0-alpha.14.tgz#410646e00ee27dc016014266aab41d37264a72b1"
-  integrity sha512-b7TJzlW6I9VX6WLlu0Y0SRr/zD0Scco20ff3hWoyI/GfyrmYK38qxq0OONAZXut8B35vxRH4smw4hXe/a1tK4Q==
-  dependencies:
-    "@jupyterlab/shared-models" "^3.3.0-alpha.14"
-    "@jupyterlab/statedb" "^3.3.0-alpha.14"
-    "@lumino/coreutils" "^1.10.0"
-    lib0 "^0.2.42"
-    y-websocket "^1.3.15"
-    yjs "^13.5.6"
-
 "@jupyterlab/docregistry@^3.2.0":
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/@jupyterlab/docregistry/-/docregistry-3.2.0.tgz#cec3d60f4863cfd2d15cc3ac1be9bccb6c600d6c"
