@@ -1,6 +1,3 @@
-lint-staged.config.js
-.eslintrc.js
-
 node_modules
 **/build
 **/lib
@@ -13,6 +10,8 @@ node_modules
 coverage
 *.map.js
 *.bundle.js
+
+packages/ui-components/src/icon/iconimports.ts
 
 # jetbrains IDE stuff
 .idea/
